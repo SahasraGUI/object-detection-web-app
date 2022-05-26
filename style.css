@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url("background_image.jpg");
+    background-size: cover;
+}
+
+#heading{
+    color: white;
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#button{
+    font-size: 20px !important;
+}

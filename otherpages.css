@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url("background_image(2).png");
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#back{
+    float: right;
+}
+
+canvas{
+    border: 2px white solid;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 100px;
+}
